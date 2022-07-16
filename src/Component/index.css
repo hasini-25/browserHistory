@@ -1,0 +1,26 @@
+.history-box {
+  display: flex;
+}
+.history {
+  margin-left: 50px;
+  width: 85%;
+  display: flex;
+  align-items: center;
+}
+.space {
+  margin: 15px;
+}
+.delete-button {
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: transparent;
+  border: 0px;
+}
+.logo-icon {
+  height: 30px;
+}
+.link {
+  color: #64748b;
+}
